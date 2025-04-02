@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "702564520017",
+    "project_id": "bmw-firebase",
+    "storage_bucket": "bmw-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702564520017:android:b4996a5930484988932870",
+        "android_client_info": {
+          "package_name": "com.example.bmw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702564520017-qish43h12s2ker170hl8dgnmmabsgl3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOlwe090dI8AntwcRkw8Y4SgJQFpGnvaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702564520017-qish43h12s2ker170hl8dgnmmabsgl3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
